@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**asimzulfiqartech/asimzulfiqartech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Asim Zulfiqar 👋
 
-Here are some ideas to get you started:
+### Full-Stack Developer | Backend Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build practical web applications and backend systems
+focused on solving real business problems.
+
+### 🛠 Tech Stack
+- Frontend: Next.js, React, TypeScript
+- Backend: Node.js, NestJS, ASP.NET Core, C#
+- Databases: MySQL, SQL Server
+- Tools: Redis, BullMQ, Prisma, TypeORM, Git
+
+### 🚀 Projects
+- Social Media Post Publisher — Scheduling and background processing
+- E-Commerce Application — Products, inventory, and order management
+- Doctor 7 — Clinic management and appointment workflows
+
+### 🌱 Currently Exploring
+- Backend architecture and system design
+- Scalable application workflows
+- AI integrations
+
+### 🤝 Let's Connect
+[LinkedIn](https://www.linkedin.com/in/asimzulfiqar2005/)
